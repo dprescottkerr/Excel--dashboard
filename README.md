@@ -7,8 +7,8 @@ This project uses Excel data to analyze cookie sales, profits, and product perfo
 
 ### Dashboard 
 
-![image](https://github.com/user-attachments/assets/c2cec30c-8955-4e1c-9cc2-6dc14000bf96)
 
+![image](https://github.com/user-attachments/assets/eb85d1c0-07c2-4f6c-88ec-10e8f3f6cb49)
 
 
 📈 Key Dashboard Features
